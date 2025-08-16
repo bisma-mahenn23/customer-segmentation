@@ -29,7 +29,7 @@ The goal is to help businesses understand customer behavior and design targeted 
 ![income](income vs. spending scores.png)
 
 # 🔹 Elbow Method
-![Elbow Method](elbow metthod.png)
+![Elbow method](elbow method.png)
 
 # 🔹 Final Customer Segments
 ![Clusters](clusters.png)
