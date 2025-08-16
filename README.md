@@ -26,10 +26,10 @@ The goal is to help businesses understand customer behavior and design targeted 
 # 📊 Visualizations
 
 # 🔹 Customer Distribution (Before Clustering)
-![income](income vs. spending scores.png)
+![Income](income.png)
 
 # 🔹 Elbow Method
-![Elbow method](elbow method.png)
+![Elbow](elbow.png)
 
 # 🔹 Final Customer Segments
 ![Clusters](clusters.png)
